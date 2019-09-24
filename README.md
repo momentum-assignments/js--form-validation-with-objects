@@ -42,9 +42,6 @@ This message should go away if the field is later marked as valid. This message 
 
 Add the following validations:
 
-* Car year must be a number.
-* Car year must be after 1900.
-* Car year cannot be in the future.
 * Date parking must be in the future.
 * Number of days must be a number.
 * Number of days must be between 1 and 30.
